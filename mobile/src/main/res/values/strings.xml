@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">proyectoimagen</string>
+    <string name="titulo">Bienvenido</string>
+    <string name="tituboton">Entrar</string>
+</resources>
